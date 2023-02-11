@@ -12,10 +12,15 @@ PREREQUISITI
 
 Per eseguire questo progetto, è necessario avere i seguenti software installati:
 
-Java 8 o successivo
-Apache Maven
-Database (ad esempio, SQlServer)
-Il file TEMP_FILE_NAME (in questo caso "interlogica-phoneNumber.tmp") è un file temporaneo che viene creato sul file system della macchina in esecuzione dell'applicazione.
+>Java 8 o successivo
+
+>Spring
+
+>Apache Maven
+
+>Database (ad esempio, SQlServer)
+
+>Il file TEMP_FILE_NAME (in questo caso "interlogica-phoneNumber.tmp") è un file temporaneo che viene creato sul file system della macchina in esecuzione dell'applicazione.
 
 API
 
